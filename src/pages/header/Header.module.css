@@ -1,0 +1,45 @@
+
+
+.menu {
+    display: flex;
+    align-items: center;
+    padding-top: 19px;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.header_logo {
+    margin-right: 129px;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+
+.menu ul li {
+    display: inline;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+
+}
+
+.menu a{
+    text-decoration: none;
+    font-style: 22px;
+    margin-right: 50px;
+}
+
+.menu ul li img {
+    margin-right: 8px;
+}

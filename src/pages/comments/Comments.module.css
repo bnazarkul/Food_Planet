@@ -1,0 +1,89 @@
+.comments {
+    padding: 56px 0 88px 0 ;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+
+}
+
+.comments h5 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #254F4C;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card {
+    position: relative;
+    width: 250px;
+    height: 313px;
+    box-sizing: border-box;
+    border: 2px solid #1D3130;
+    border-radius: 40px;
+    padding: 24px 18px;
+    display: grid;
+    grid-auto-columns: 1fr;
+
+}
+
+
+
+
+.pen {
+    position: absolute;
+    left: 8px;
+    top: 9px;
+}
+
+.pen_user {
+    position: relative;
+    right: -65%;
+    top: -100%;
+}
+
+.ellips {
+    position: absolute;
+    left: -8px;
+    top: -4px;
+    width: 38px;
+    height: 38px;
+    background: #f1f1f1!important;
+    border-radius: 50%;
+}
+
+.user{
+    width: 85px;
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.card p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    margin: 0;
+}
+
+.username  {
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}

@@ -1,0 +1,40 @@
+
+.new_header {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 29px;
+  color: #254F4C;
+
+}
+
+.new_header ul {
+  margin-left: 165px;
+}
+
+.new_header ul li {
+  display: inline;
+  margin-left: 18px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  align-items: center;
+  text-align: center;
+  color: #1D3130;
+
+
+}
+
+.new_header a{
+  text-decoration: none;
+
+}

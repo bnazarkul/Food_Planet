@@ -1,0 +1,51 @@
+.footer {
+    background: #254F4C;
+    width: 100%;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+
+}
+
+.header_logo {
+    margin-right: 129px;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+
+.menu ul li {
+    display: inline;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+
+.menu a{
+    text-decoration: none;
+    font-style: 22px;
+    margin-right: 60px;
+}
+
+.menu ul li img {
+    margin-right: 8px;
+}

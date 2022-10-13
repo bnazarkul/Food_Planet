@@ -1,0 +1,31 @@
+.select {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3A403F;
+    text-align: center;
+}
+
+.select p {
+    margin-right: 32px;
+}
+
+.select select {
+    width: 160px;
+    height: 40px;
+    left: 1216px;
+    top: 1230px;
+    border: 1px solid #C4C4C4;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3A403F;
+    text-align: center;
+}
